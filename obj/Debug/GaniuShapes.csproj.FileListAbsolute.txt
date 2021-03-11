@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\GaniuShapes\bin\Debug\GaniuShapes.exe.config
+C:\Users\DELL\source\repos\GaniuShapes\bin\Debug\GaniuShapes.exe
+C:\Users\DELL\source\repos\GaniuShapes\bin\Debug\GaniuShapes.pdb
+C:\Users\DELL\source\repos\GaniuShapes\obj\Debug\GaniuShapes.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GaniuShapes\obj\Debug\GaniuShapes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GaniuShapes\obj\Debug\GaniuShapes.exe
+C:\Users\DELL\source\repos\GaniuShapes\obj\Debug\GaniuShapes.pdb
